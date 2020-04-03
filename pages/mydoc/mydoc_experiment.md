@@ -12,6 +12,8 @@ folder: mydoc
 
 {% include tip.html content="This is an example of a tip." %}
 
+{% include note.html content="This is an example of a note." %}
+
 <ul id="profileTabs" class="nav nav-tabs">
     <li><a class="noCrossRef" href="#desktop" data-toggle="tab">Desktop</a></li>
     <li class="active"><a class="noCrossRef" href="#web" data-toggle="tab">Web</a></li>
