@@ -47,7 +47,7 @@ feedback_email: ivancheban@gmail.com
 # feedback_link: "http://helpy.io/"
 # if you uncomment the previous line, it changes where the feedback link points to
 
-highlighter: none
+highlighter: prism
 # library used for syntax highlighting
 
 markdown: kramdown
@@ -55,9 +55,9 @@ kramdown:
  input: GFM
  auto_ids: true
  hard_wrap: false
- syntax_highlighter: none
+ syntax_highlighter: prism
  syntax_highlighter_opts:
-      disable : true
+      disable : false
 
 
 # filter used to process markdown. note that kramdown differs from github-flavored markdown in some subtle ways
