@@ -56,8 +56,6 @@ kramdown:
  auto_ids: true
  hard_wrap: false
  syntax_highlighter: prism
- syntax_highlighter_opts:
-      disable : false
 
 
 # filter used to process markdown. note that kramdown differs from github-flavored markdown in some subtle ways
