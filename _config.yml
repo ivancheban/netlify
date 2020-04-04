@@ -47,7 +47,7 @@ feedback_email: ivancheban@gmail.com
 # feedback_link: "http://helpy.io/"
 # if you uncomment the previous line, it changes where the feedback link points to
 
-highlighter: rouge
+highlighter: none
 # library used for syntax highlighting
 
 markdown: kramdown
@@ -110,8 +110,8 @@ description: "This is a sample documentation site built with Jekyll"
 # the description is used in the feed.xml file
 
 # needed for sitemap.xml file only
-url: ivancheban.github.io
-baseurl: /sampledocsite
+# url: https://sampledocsite.netlify.com/
+# baseurl: sampledocsite.netlify.com
 
 
 github: [metadata]
