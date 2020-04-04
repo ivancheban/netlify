@@ -1,6 +1,6 @@
 source "https://rubygems.org"
-group :jekyll_plugins do
-    gem "jekyll_prism"
-  end
-gem 'wdm'
-gem 'jekyll'
+
+# to publish on github page
+# gem 'github-pages', group: :jekyll_plugins
+# to publich without github page
+gem "jekyll", "~> 4.0.0"
